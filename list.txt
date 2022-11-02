@@ -8,6 +8,8 @@ Mangoes
 
 MEAT
 Sausages
+Chicken
+Mutton
 
 DAIRY
 
