@@ -12,6 +12,9 @@ Chicken
 Mutton
 
 DAIRY
+Milk
+Cheese
+Yoghurt
 
 HOUSEHOLD 
 
